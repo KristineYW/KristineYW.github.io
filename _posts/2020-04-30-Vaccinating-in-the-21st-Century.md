@@ -5,6 +5,7 @@ subtitle: Do vaccines still have any impact on life or death?
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
+image: /img/vaccines.jpg
 comments: true
 ---
 
