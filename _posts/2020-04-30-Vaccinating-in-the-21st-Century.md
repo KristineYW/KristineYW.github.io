@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vaccinating in the 21st Century
-subtitle: Do vaccines still have any impact on life or death?
+subtitle: Are vaccines necessary?
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 image: /img/vaccines.jpg
