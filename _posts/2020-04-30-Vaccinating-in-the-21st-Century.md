@@ -8,7 +8,7 @@ image: /img/vaccines.jpg
 comments: true
 ---
 
-Does vaccine have a role in the 21st century as life expectancy is high and child mortality is low?
+Do vaccines have a role in the 21st century as life expectancy is high and child mortality is low?
 
 There is a general, happy consensus that life expectancy is increasing around the world as child mortality is going down. Does this mean that vaccinations are no longer necessary, or does it still have any benefits in the 21st century?
 
