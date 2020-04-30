@@ -9,7 +9,7 @@ comments: true
 ---
 
 
-There is a general, happy consensus that life expectancy is increasing around the world as child mortality is going down. Does this mean that vaccinations are no longer mandatory, or does it still play a role in the 21st century?
+There is a general, happy consensus that life expectancy is increasing around the world as child mortality is going down. Does this mean that vaccinations are no longer necessary, or does it still have a role in the 21st century?
 
 Check out my new post on [medium](https://medium.com/@ywang03/do-vaccines-really-have-any-effect-on-life-and-death-9dfd71e4e529/) to find out more about vaccination through data. 
 
