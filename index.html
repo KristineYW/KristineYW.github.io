@@ -8,8 +8,8 @@ use-site-title: true
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
-    <a href="{{ https://medium.com/@ywang03/do-vaccines-really-have-any-effect-on-life-and-death-9dfd71e4e529 }}">
-	  <h2 class="post-title">{{ Do vaccines really have any effect on life or death? }}</h2>
+    <a href="{{ post.url | relative_url }}">
+	  <h2 class="post-title">{{ }}</h2>
 
 	  {% if post.subtitle %}
 	  <h3 class="post-subtitle">
