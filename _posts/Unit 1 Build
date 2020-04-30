@@ -5,8 +5,8 @@ subtitle: Do vaccines still have any effect on life and death?
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
-comments: true
----
+**comments: true
+---**
 
 
 There is a general, happy consensus that life expectancy is increasing around the world as child mortality is going down. Does this mean that vaccinations are no longer mandatory, or does it still play a role in the 21st century?
