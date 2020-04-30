@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vaccinating in the 21st Century
-subtitle: Do vaccines still have any effect on life and death?
+subtitle: Do vaccines still have any impact on life or death?
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
